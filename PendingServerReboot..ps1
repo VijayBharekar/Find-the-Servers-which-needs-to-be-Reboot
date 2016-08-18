@@ -5,7 +5,7 @@
      The PowerShell script which can be used to check if the server is pending reboot.
      .EXAMPLE
       Gets the server reboot status on the specified computer.
-        C:\PS> C:\Script\FindServerIsPendingReboot.ps1 -ComputerName "ABC","XYZ","LMN"
+        C:\PS> C:\Users\VijayBharekar\Desktop\PendingServerReboot.ps1 -ComputerName "ABC","XYZ","LMN"
 
 	ComputerName                                          RebootIsPending
         ------------                                          ---------------
